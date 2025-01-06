@@ -1,6 +1,6 @@
 #include "lib.h"
 #include "version.h"
 
-int verson() {
+int version() {
     return PROJECT_VERSION_PATCH;
 }
